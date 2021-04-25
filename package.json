@@ -1,6 +1,6 @@
 {
+  "homepage": "http://nahsama.github.io/react-flappy-bird",
   "name": "flappy-bird-react",
-  "homepage": "http://gitname.github.io/flappy-bird",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
