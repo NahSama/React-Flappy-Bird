@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/react-flappy-bird/static/js/main.17bc47ae.chunk.js",
+    "main.js.map": "/react-flappy-bird/static/js/main.17bc47ae.chunk.js.map",
+    "runtime-main.js": "/react-flappy-bird/static/js/runtime-main.13d7df5d.js",
+    "runtime-main.js.map": "/react-flappy-bird/static/js/runtime-main.13d7df5d.js.map",
+    "static/js/2.e74719a7.chunk.js": "/react-flappy-bird/static/js/2.e74719a7.chunk.js",
+    "static/js/2.e74719a7.chunk.js.map": "/react-flappy-bird/static/js/2.e74719a7.chunk.js.map",
+    "index.html": "/react-flappy-bird/index.html",
+    "static/js/2.e74719a7.chunk.js.LICENSE.txt": "/react-flappy-bird/static/js/2.e74719a7.chunk.js.LICENSE.txt",
+    "static/media/bg.093d36bb.png": "/react-flappy-bird/static/media/bg.093d36bb.png",
+    "static/media/bird.71e31e9e.png": "/react-flappy-bird/static/media/bird.71e31e9e.png",
+    "static/media/fg.1aff9f5e.png": "/react-flappy-bird/static/media/fg.1aff9f5e.png",
+    "static/media/pipe-bottom.d354aa87.png": "/react-flappy-bird/static/media/pipe-bottom.d354aa87.png",
+    "static/media/pipe-top.3e4cf42d.png": "/react-flappy-bird/static/media/pipe-top.3e4cf42d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d7df5d.js",
+    "static/js/2.e74719a7.chunk.js",
+    "static/js/main.17bc47ae.chunk.js"
+  ]
+}
